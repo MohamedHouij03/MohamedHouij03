@@ -4,7 +4,7 @@
 
 I'm a final-year **Data Science & Artificial Intelligence Engineering student** passionate about building practical AI systems — from **LLM & RAG applications** to **Computer Vision and Machine Learning solutions**.
 
-🎯 Currently looking for a **6-month Final-Year Internship (PFE) in February 2027**.
+🎯 Currently looking for a **6-month Final-Year Internship (PFE) in France — February 2027**.
 
 ---
 
@@ -80,9 +80,9 @@ I'm interested in opportunities and collaborations around:
 
 **AI Engineering • Data Science • Machine Learning • GenAI • RAG • Computer Vision**
 
-📫 **LinkedIn:** [[Add your LinkedIn URL](https://www.linkedin.com/in/mohamed-houij-b11a0a161/)]  
-🌐 **Portfolio:** [[Add your portfolio URL](https://mohamedhouij03.github.io/portfolio/)]  
-📧 **Email:** [mohamed.houij@polytechnicien.tn]
+💼 **LinkedIn:** [linkedin.com/in/mohamed-houij-b11a0a161](https://www.linkedin.com/in/mohamed-houij-b11a0a161/)  
+🌐 **Portfolio:** [mohamedhouij03.github.io/portfolio](https://mohamedhouij03.github.io/portfolio/)  
+📧 **Email:** [mohamed.houij@polytechnicien.tn](mailto:mohamed.houij@polytechnicien.tn)
 
 ---
 
