@@ -4,7 +4,7 @@
 
 I'm a final-year **Data Science & Artificial Intelligence Engineering student** passionate about building practical AI systems — from **LLM & RAG applications** to **Computer Vision and Machine Learning solutions**.
 
-🎯 Currently looking for a **6-month Final-Year Internship (PFE) in France — February 2027**.
+🎯 Currently looking for a **6-month Final-Year Internship (PFE) in February 2027**.
 
 ---
 
